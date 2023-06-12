@@ -2,7 +2,7 @@
 
 I am Nicolas Alexandre, a web developer with experience in backend, frontend and devops who dreams of becoming a gamedev one day. Feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-nicolas-alexandre-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicolas-alexandre/)](https://www.linkedin.com/in/nicolas-alexandre/)
+[![Linkedin Badge](https://img.shields.io/badge/-nicolasalexandre2-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicolasalexandre2/)](https://www.linkedin.com/in/nicolas-alexandre/)
 [![Instagram Badge](https://img.shields.io/badge/-nicolas.cpp-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/nicolas.cpp/)](https://www.instagram.com/nicolas.cpp/)
 [![Gmail Badge](https://img.shields.io/badge/-nicolasalexandre0001@gmail.com.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nicolasalexandre0001@gmail.com)](mailto:nicolasalexandre0001@gmail.com)
 
@@ -19,7 +19,7 @@ I am Nicolas Alexandre, a web developer with experience in backend, frontend and
 ![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
 ![Ruby](https://img.shields.io/badge/-Ruby-red?style=flat-square&logo=Ruby)
 ![Ruby on Rails](https://img.shields.io/badge/-Rails-red?style=flat-square&logo=ruby-on-rails)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-181717?style=flat-square&logo=postgresql)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
